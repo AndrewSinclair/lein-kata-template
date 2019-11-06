@@ -4,3 +4,4 @@
 ```sh
 lein auto test
 ```
+- 0.2.0 - Updated to Clojure 1.10
